@@ -1,0 +1,14 @@
+.env
+node_modules
+
+*.o
+*.a
+*.so
+
+tmp
+
+*.exe
+*.out
+
+/bin/
+/pkg/
